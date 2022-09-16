@@ -111,11 +111,7 @@ span .svg-inline--fa{
 .svg-inline--fa{
     color: white;
 }
-@media (max-width:450px) {
-    .navbar .icon{
-        
-    }
-}
+
 /* end navbar */
 /* start landing */
 .landing{
